@@ -1,0 +1,9 @@
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\bin\Debug\netstandard2.0\Warehouse.Interface.deps.json
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\bin\Debug\netstandard2.0\Warehouse.Interface.dll
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\bin\Debug\netstandard2.0\Warehouse.Interface.pdb
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\obj\Debug\netstandard2.0\Warehouse.Interface.csprojAssemblyReference.cache
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\obj\Debug\netstandard2.0\Warehouse.Interface.csproj.CoreCompileInputs.cache
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\obj\Debug\netstandard2.0\Warehouse.Interface.AssemblyInfoInputs.cache
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\obj\Debug\netstandard2.0\Warehouse.Interface.AssemblyInfo.cs
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\obj\Debug\netstandard2.0\Warehouse.Interface.dll
+c:\Users\richard.humpherson\OneDrive - Tribal Education Ltd\D\Visual Studio 2017\Projects\Robot1\Warehouse.Interfaces\obj\Debug\netstandard2.0\Warehouse.Interface.pdb
